@@ -1,4 +1,5 @@
-# You need to clone this repository to your machine using following steps:
+# How to run the project:
+
 - You need to first fork this repo to your github.
 - Open VScode and open source control where you need to select the forked repository.
 - Now you need to open terminal and choose bash CLI where you need to just run below cmd:
