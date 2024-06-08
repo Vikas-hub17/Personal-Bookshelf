@@ -1,3 +1,25 @@
+# You need to clone this repository to your machine using following steps:
+- You need to first fork this repo to your github.
+- Open VScode and open source control where you need to select the forked repository.
+- Now you need to open terminal and choose bash CLI where you need to just run below cmd:
+                 - npm install
+                 - cd 'the folder name where the repo has been saved'
+                 - npm start
+  - After doing all the above steps you can now see the output in your default browser.
+
+# Sample output:
+
+![Screenshot 2024-06-08 204824](https://github.com/Vikas-hub17/Personal-Bookshelf/assets/72265502/2157a064-12d0-4981-93cb-a4d173918dd1)
+
+
+![Screenshot 2024-06-08 204832](https://github.com/Vikas-hub17/Personal-Bookshelf/assets/72265502/f751edc1-ed10-4ca7-bd70-438441e6634a)
+
+
+![Screenshot 2024-06-08 204840](https://github.com/Vikas-hub17/Personal-Bookshelf/assets/72265502/4dbf7d17-d740-41e9-8ebe-1d797b357fc1)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
