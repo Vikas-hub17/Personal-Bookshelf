@@ -3,10 +3,10 @@
 - You need to first fork this repo to your github.
 - Open VScode and open source control where you need to select the forked repository.
 - Now you need to open terminal and choose bash CLI where you need to just run below cmd:
-                 - npm install
-                 - cd 'the folder name where the repo has been saved'
-                 - npm start
-  - After doing all the above steps you can now see the output in your default browser.
+# npm install
+# cd 'the folder name where the repo has been saved'
+# npm start
+# After doing all the above steps you can now see the output in your default browser.
 
 # Sample output:
 
